@@ -14,7 +14,6 @@ const options = [
 const ParentComponent = () => {
   const handleSelectChange = (selectedOptions) => {
     console.log('Selected options:', selectedOptions);
-    // Use the selected options as desired in the parent component
   };
 
   return (
